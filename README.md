@@ -20,7 +20,7 @@ Please don't save or provide any sensitive infomation into this app
 
 ## Troubleshoot
 
-| Plobblem | Solution |
+| problem | Solution |
 | ------ | ------ |
 | This app take large amount of disk space | Delete all large file in the app or go to Settings app and navigate to System/Recovery then click "Reset" button
 | Blur not working | Upgrade or switch to difference mordern web browser |
